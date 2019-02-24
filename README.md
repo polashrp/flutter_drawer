@@ -4,10 +4,11 @@ A new Flutter application with drawer navigation.
 
 ## Getting Started
 Flutter basic home page
-![image](https://github.com/polashrp/flutter_drawer/blob/master/screen_short/flutter%20basic.png)
-
 Flutter drawer navigation sidebar 
-![image](https://github.com/polashrp/flutter_drawer/blob/master/screen_short/flutter%20drawer.png)
+
+![image](https://github.com/polashrp/flutter_drawer/blob/master/screen_short/flutter%20basic.png) ![image](https://github.com/polashrp/flutter_drawer/blob/master/screen_short/flutter%20drawer.png)
+
+
 
 Habib eng
 ![image](https://pbs.twimg.com/profile_images/1066554347742326784/JolNIOdt_400x400.jpg)
